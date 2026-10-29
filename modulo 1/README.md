@@ -15,4 +15,4 @@ Durante el proceso de investigación se contrastaron dos líneas de trabajo:
 Tras evaluar la disponibilidad de información, la viabilidad técnica, el aporte de ingeniería y la factibilidad temporal, el equipo seleccionó el **Tema A** como opción definitiva para el Trabajo Final de Carrera. 
 
 # Descarga del Informe 
-[Descarga aquí el informe en PDF]( )
+[Descarga aquí el informe en PDF]( https://github.com/ValentinoGiampietri/TyHMII-entregas/blob/main/modulo%201/TP1%20-%20TyHMII%20(3)%20(1).pdf)
