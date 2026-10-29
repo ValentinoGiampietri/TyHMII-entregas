@@ -11,4 +11,4 @@ Como aplicación práctica, se desarrolló la redacción del **Informe Post-JoSE
 ## 📥 Descargas
 El archivo puede ser descargado directamente mediante el siguientes atajo:
 
-[Descarga aquí el informe en PDF]( )
+[Descarga aquí el informe en PDF](https://github.com/ValentinoGiampietri/TyHMII-entregas/blob/main/Modulo%202/M2%20-%20TyHMII%20-%20Informe%20Post-JoSEII%202026%20-%20Delegaci%C3%B3n%20Mendoza%20(UNCuyo)%20(1).pdf )
